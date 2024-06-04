@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(250,250,250);
+}
+
+.box {
+
+    width: 400px;
+    height: 400px;
+    background-color: rgba(0,0,0,0.5);
+
+}
+
+
+/* Atribuicao por nome da cor blue*/
+/* Atribuicao por hexadecimal #0000ff*/
+/* Atribuicao por RGB rgb(0,0,255)*/
+/*Atribuicao por RGBA rgba(0,0,0, 0.5)*/
+/*As atribuicoes as cores devem levar em conta a acessibilidade*/
